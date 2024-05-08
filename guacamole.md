@@ -7,3 +7,4 @@
 - lime
 
 ## Steps
+Wash the ingredients. 
